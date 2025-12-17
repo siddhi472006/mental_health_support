@@ -110,7 +110,7 @@ const App = () => {
     
     If the prompt contains 'STANDARD_QUERY', maintain a supportive, psycho-educational, and conversational tone. Provide guidance or resource suggestions (This triggers Graph O(V+E) recommendation searches).
     
-    Do not mention the underlying DSA structures (Trie, Heap, Graph) or 'Blockchain' in your final response.
+    Do not mention the underlying DSA structures (Trie, Heap, Graph) or 'Blockchain' in your final response.Also give solutions according to indian country.
     
     Contextual Flag: ${DSA_TAG}`;
 
